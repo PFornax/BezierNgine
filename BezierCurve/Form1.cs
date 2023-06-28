@@ -585,10 +585,6 @@ namespace BezierCurve
 
 
 			}
-			else
-			{
-				MessageBox.Show("Error, couldn't read file");
-			}
 
 		}
 
