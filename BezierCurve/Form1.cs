@@ -35,6 +35,8 @@ namespace BezierCurve
 		int pXdif = 0;
 		int pYdif = 0;
 
+		int click_radius = 15;
+
 
 		Pen bl = new Pen(Color.Black);
 		Pen red = new Pen(Color.Red);
@@ -344,7 +346,7 @@ namespace BezierCurve
 			{
 				for (int PInd = 0; PInd < p.Count; PInd++)
 				{
-					if (p[PInd].X * Zoom_SB.Value * 0.1 + bX <= Coords.X + 10 & p[PInd].X * Zoom_SB.Value * 0.1 + bX >= Coords.X - 10 & p[PInd].Y * Zoom_SB.Value * 0.1 + bY <= Coords.Y + 10 & p[PInd].Y * Zoom_SB.Value * 0.1 + bY>= Coords.Y  - 10)
+					if (p[PInd].X * Zoom_SB.Value * 0.1 + bX <= Coords.X + click_radius & p[PInd].X * Zoom_SB.Value * 0.1 + bX >= Coords.X - click_radius & p[PInd].Y * Zoom_SB.Value * 0.1 + bY <= Coords.Y + click_radius & p[PInd].Y * Zoom_SB.Value * 0.1 + bY>= Coords.Y  - click_radius)
 					{
 						pIndRel = PInd; 
 						break;

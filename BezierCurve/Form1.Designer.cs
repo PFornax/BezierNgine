@@ -270,6 +270,7 @@
 			// 
 			// BC_Refresh_Timer
 			// 
+			this.BC_Refresh_Timer.Interval = 10;
 			this.BC_Refresh_Timer.Tick += new System.EventHandler(this.Refresh_Timer_Tick);
 			// 
 			// B_RelocateNullP
@@ -367,7 +368,7 @@
 			this.teB_Intervall.Size = new System.Drawing.Size(34, 20);
 			this.teB_Intervall.TabIndex = 15;
 			this.teB_Intervall.Tag = "";
-			this.teB_Intervall.Text = "100";
+			this.teB_Intervall.Text = "10";
 			this.teB_Intervall.Visible = false;
 			this.teB_Intervall.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.teB_Intervall_PreviewKeyDown);
 			// 

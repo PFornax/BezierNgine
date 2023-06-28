@@ -9,3 +9,14 @@ G:\Cs applications\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.Generate
 G:\Cs applications\BezierCurve\BezierCurve\obj\Debug\BezierCurve.csproj.CoreCompileInputs.cache
 G:\Cs applications\BezierCurve\BezierCurve\obj\Debug\BezierCurve.exe
 G:\Cs applications\BezierCurve\BezierCurve\obj\Debug\BezierCurve.pdb
+G:\Repossaves\BezierNgine\BezierCurve\bin\Debug\BezierCurve.exe.config
+G:\Repossaves\BezierNgine\BezierCurve\bin\Debug\BezierCurve.exe
+G:\Repossaves\BezierNgine\BezierCurve\bin\Debug\BezierCurve.pdb
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.csproj.AssemblyReference.cache
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.csproj.SuggestedBindingRedirects.cache
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.Form1.resources
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.Properties.Resources.resources
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.csproj.GenerateResource.cache
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.csproj.CoreCompileInputs.cache
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.exe
+G:\Repossaves\BezierNgine\BezierCurve\obj\Debug\BezierCurve.pdb
